@@ -66,7 +66,6 @@ export function NavBar() {
           <Logo />
           <div className="desktop-only">
             <div style={{ fontWeight: 800, fontSize: '1.2rem', color: '#0f172a' }}>D M SYSTEMS</div>
-            <div style={{ fontSize: '0.65rem', color: '#2563eb', fontWeight: 700, textTransform: 'uppercase' }}>Internet Security Partner</div>
           </div>
         </div>
 
